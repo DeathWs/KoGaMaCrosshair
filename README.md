@@ -1,3 +1,5 @@
+<div  align="center">
+
 
 # Personal KoGaMa Crosshair
 <details><summary>Reveal Information</summary>
@@ -15,7 +17,7 @@ Made with UABE with guidance of [IloveCry](https://github.com/ilovecry)
 
 Simply download Assets file by clicking on button bellow: 
 
-[<img src="https://cdn.discordapp.com/attachments/997183409900228638/997988211215306782/btn.png" width="150"/>](https://download844.mediafire.com/56qkb2a2duog/clocb4qqf4m2o3v/sharedassets1.assets")
+[<img src="https://cdn.discordapp.com/attachments/1038338241201455175/1051492383101034536/image.png" />](https://download844.mediafire.com/56qkb2a2duog/clocb4qqf4m2o3v/sharedassets1.assets")
 
 Head to thus path:
 
@@ -25,7 +27,7 @@ Put downloaded assets file in that folder, and simply try joining a game.
 
 If you're having trouble, feel free to use button bellow to see an video example.
 
-[<img src="https://media.discordapp.net/attachments/1002644848479834112/1045053138270437446/ewfewfed-1.png" width="150"/>](https://youtu.be/SQW9QyDGlrM")
+[<img src="https://cdn.discordapp.com/attachments/1038338241201455175/1051491953830793226/image.png" />](https://youtu.be/SQW9QyDGlrM")
 
 </details>
 
