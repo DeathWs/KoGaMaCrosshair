@@ -17,7 +17,7 @@ Made with UABE with guidance of [IloveCry](https://github.com/ilovecry)
 
 Simply download Assets file by clicking on button bellow: 
 
-[<img src="https://cdn.discordapp.com/attachments/1038338241201455175/1051492383101034536/image.png" />](https://download844.mediafire.com/56qkb2a2duog/clocb4qqf4m2o3v/sharedassets1.assets")
+[<img src="https://cdn.discordapp.com/attachments/1038338241201455175/1051492383101034536/image.png" />](https://github.com//NotMercvry/KoGaMaCrosshair/releases/download/2.30.20.1152/sharedassets1.assets"")
 
 Head to thus path:
 
