@@ -2,17 +2,16 @@
 
 
 # Personal KoGaMa Crosshair
-<details><summary>Reveal Information</summary>
-<p>
+
+
 
 *Note that using that might result in your ban if reported.*
 
 Made with UABE with guidance of [IloveCry](https://github.com/ilovecry)
 
-</details>
 
 # Installation
-<details><summary>How do I install it?</summary>
+
 
 
 Simply download Assets file by clicking on button bellow: 
@@ -26,11 +25,11 @@ Head to thus path:
 
 Put downloaded assets file in that folder, and simply try joining a game.
 
-</details>
+
 
 
 # Preview
-<details><summary>Reveal Preview</summary>
+
 
 ![image](https://user-images.githubusercontent.com/96681438/203591848-7dc6f759-fde0-4eab-88b7-78e4a056fce7.png)
-</details>
+
