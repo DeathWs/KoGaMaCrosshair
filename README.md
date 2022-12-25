@@ -26,10 +26,6 @@ Head to thus path:
 
 Put downloaded assets file in that folder, and simply try joining a game.
 
-If you're having trouble, feel free to use button bellow to see an video example.
-
-[<img src="https://cdn.discordapp.com/attachments/1038338241201455175/1051491953830793226/image.png" />](https://youtu.be/SQW9QyDGlrM")
-
 </details>
 
 
