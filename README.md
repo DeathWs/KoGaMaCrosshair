@@ -15,7 +15,7 @@ Made with UABE with guidance of [IloveCry](https://github.com/ilovecry)
 
 Simply download Assets file by clicking on button bellow: 
 
-[<img src="https://user-images.githubusercontent.com/96681438/209547102-771607f8-6fb8-447e-a517-90b80c9387e9.png" width="190"/>](/falsesinxi/Crosshair/releases/download/2.30.21.1152/sharedassets1.assets)
+[<img src="https://user-images.githubusercontent.com/96681438/209547102-771607f8-6fb8-447e-a517-90b80c9387e9.png" width="190"/>](https://github.com//falsesinxi/Crosshair/releases/download/2.30.21.1152/sharedassets1.assets)
 
    
 
