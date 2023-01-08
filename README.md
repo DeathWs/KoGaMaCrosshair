@@ -25,7 +25,7 @@ Head to thus path:
 
 Put downloaded assets file in that folder, and simply try joining a game.
 
-
+***This file also works on BR & FRIENDS***.
 
 
 # Preview
